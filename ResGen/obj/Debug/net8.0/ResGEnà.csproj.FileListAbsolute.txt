@@ -1,0 +1,14 @@
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ResGEnà.GeneratedMSBuildEditorConfig.editorconfig
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ResGEnà.AssemblyInfoInputs.cache
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ResGEnà.AssemblyInfo.cs
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ResGEnà.csproj.CoreCompileInputs.cache
+/home/samma/Scrivania/ResGEn/ResGEnà/bin/Debug/net8.0/ResGEnà
+/home/samma/Scrivania/ResGEn/ResGEnà/bin/Debug/net8.0/ResGEnà.deps.json
+/home/samma/Scrivania/ResGEn/ResGEnà/bin/Debug/net8.0/ResGEnà.runtimeconfig.json
+/home/samma/Scrivania/ResGEn/ResGEnà/bin/Debug/net8.0/ResGEnà.dll
+/home/samma/Scrivania/ResGEn/ResGEnà/bin/Debug/net8.0/ResGEnà.pdb
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ResGEnà.dll
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/refint/ResGEnà.dll
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ResGEnà.pdb
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ResGEnà.genruntimeconfig.cache
+/home/samma/Scrivania/ResGEn/ResGEnà/obj/Debug/net8.0/ref/ResGEnà.dll
